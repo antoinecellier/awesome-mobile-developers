@@ -14,7 +14,7 @@ Your contributions are always welcome!
 
 * Add the link: 
 
-   `[developper-fullname](https://github.com/GITHUB-USERNAME) [![GitHub followers](https://img.shields.io/github/followers/GITHUB-USERNAME.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/GITHUB-USERNAME?tab=followers) [![Twitter followers](https://badgen.net/twitter/follow/TWITTER-USERNAME?icon=twitter&label)](https://twitter.com/TWITTER-USERNAME)`
+   `[developper-fullname](https://github.com/GITHUB-USERNAME) [![GitHub followers](https://img.shields.io/github/followers/GITHUB-USERNAME.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/GITHUB-USERNAME) [![Twitter followers](https://badgen.net/twitter/follow/TWITTER-USERNAME?icon=twitter&label)](https://twitter.com/TWITTER-USERNAME)`
  
   For example for David Smith:
 
