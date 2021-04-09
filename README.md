@@ -14,7 +14,7 @@ An awesome list of mobile developers to follow
 
 *Flutter developers*
 
-* [Filip Hráček](https://github.com/filiph) [![GitHub followers](https://img.shields.io/github/followers/filiph.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/filiph?tab=followers) [![Twitter followers](https://badgen.net/twitter/follow/filiphracek?icon=twitter&label)](https://twitter.com/filiphracek)
+* [Filip Hráček](https://github.com/filiph) [![GitHub followers](https://img.shields.io/github/followers/filiph.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/filiph) [![Twitter followers](https://badgen.net/twitter/follow/filiphracek?icon=twitter&label)](https://twitter.com/filiphracek)
 
 ---
 
@@ -22,7 +22,7 @@ An awesome list of mobile developers to follow
 
 *React Native developers*
 
-* [Satyajit Sahoo](https://github.com/satya164) [![GitHub followers](https://img.shields.io/github/followers/satya164.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/satya164?tab=followers) [![Twitter followers](https://badgen.net/twitter/follow/satya164?icon=twitter&label)](https://twitter.com/satya164)
+* [Satyajit Sahoo](https://github.com/satya164) [![GitHub followers](https://img.shields.io/github/followers/satya164.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/satya164) [![Twitter followers](https://badgen.net/twitter/follow/satya164?icon=twitter&label)](https://twitter.com/satya164)
 
 ---
 
@@ -39,7 +39,7 @@ An awesome list of mobile developers to follow
 
 *iOS developers*
 
-* [David Smith](https://github.com/UnderscoreDavidSmith) [![GitHub followers](https://img.shields.io/github/followers/UnderscoreDavidSmith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/UnderscoreDavidSmith?tab=followers) [![Twitter followers](https://badgen.net/twitter/follow/_DavidSmith?icon=twitter&label)](https://twitter.com/_DavidSmith)
+* [David Smith](https://github.com/UnderscoreDavidSmith) [![GitHub followers](https://img.shields.io/github/followers/UnderscoreDavidSmith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/UnderscoreDavidSmith) [![Twitter followers](https://badgen.net/twitter/follow/_DavidSmith?icon=twitter&label)](https://twitter.com/_DavidSmith)
 
 # Contributing
 
