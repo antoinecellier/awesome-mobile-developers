@@ -40,3 +40,11 @@ An awesome list of mobile developers to follow
 *iOS developers*
 
 * [David Smith](https://github.com/UnderscoreDavidSmith) [![GitHub followers](https://img.shields.io/github/followers/UnderscoreDavidSmith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/UnderscoreDavidSmith?tab=followers) ![Twitter followers](https://badgen.net/twitter/follow/_DavidSmith?icon=twitter&label)
+
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/antoinecellier/awesome-mobile-developers/blob/main/CONTRIBUTING.md) first.
+
+- - -
+
+If you have any question about this opinionated list, do not hesitate to contact me [@AntoineCellier_](https://twitter.com/AntoineCellier_) on Twitter or open an issue on GitHub.
