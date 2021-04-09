@@ -4,8 +4,8 @@ Your contributions are always welcome!
 
 ## Guideline
 
-* Add one link per Pull Request.
-    * Make sure the PR title is in the format of `Add developper-fullname`.
+* Add one developer per Pull Request.
+    * Make sure the PR title is in the format of `[section-name] developper-fullname` (e.g. [iOS] David Smith) .
     * Write down the reason why this developer is awesome.
 * Add the section:
   `Flutter | React Native | Android | iOS`
